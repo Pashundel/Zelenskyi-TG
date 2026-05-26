@@ -1,0 +1,14 @@
+{
+  "input": "posts_for_lda_UKR.xlsx",
+  "tokens_col": "tokens_lda_json",
+  "rows_total": 8566,
+  "rows_used": 5871,
+  "min_doc_tokens": 3,
+  "vocab_size": 4581,
+  "top_words_per_topic": 15,
+  "best_k_by_coherence": 15,
+  "best_coherence_cv": 0.5969964677339736,
+  "best_k_by_perplexity": 14,
+  "best_perplexity": 984.2741143267472,
+  "inspect_k": 15
+}
