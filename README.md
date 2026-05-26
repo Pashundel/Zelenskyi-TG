@@ -59,8 +59,7 @@ The workbook was used to calculate the descriptive tables reported in the Result
 - topic prevalence by invasion phase;
 - topic-family shares;
 - reaction volume by topic;
-- reaction volume by topic family;
-- emoji reaction composition by topic.
+and others;
 
 The calculations in this workbook are descriptive. They are based on formulas and/or pivot tables and are included to make the aggregation logic transparent and verifiable.
 
