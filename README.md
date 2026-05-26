@@ -14,7 +14,7 @@ This folder contains the Python scripts used during the computational part of th
 
 The scripts should be read as the computational workflow used to move from the raw Telegram export to the final topic-model outputs.
 
-### `csv_outputs/`
+### `csv/`
 
 This folder contains intermediate and final CSV files produced during preprocessing. These files document the transformation of the Telegram export into an analytical dataset.
 
