@@ -4,7 +4,7 @@ This repository contains the replication materials for the thesis:
 
 **Framing Wartime Leadership: Zelenskyi’s Telegram Communication During Russia’s Full-Scale Invasion of Ukraine**
 
-The repository includes the Python scripts, intermediate CSV files, LDA model outputs, and the Excel workbook used to produce the descriptive tables reported in the thesis. The materials are provided to make the data-processing, topic-modelling, and descriptive aggregation workflow transparent and verifiable.
+The repository includes the Python scripts, intermediate CSV files, LDA model outputs, and the Excel workbook used to produce the descriptive tables reported in the thesis. The materials are provided to make the data-processing, topic-modelling, and descriptive aggregation workflow transparent and verifiable. <ins>For the convenience, some files have been compressed, please use unarchivator to unpack and use files with the .zip extensions.</ins>
 
 ## 1. Repository structure
 
